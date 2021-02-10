@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+        <style>
+            body{
+                background-color:rgb(207, 208, 227);
+            }
+            h1{
+                color:rgb(35, 50, 148);
+            }
+            #A{
+                color:rgb(35, 50, 148);
+            }
+            .hi{
+                background-color:rgb(147, 155, 184);
+            }
+            
+        </style>
+    </head>
+    <body>
+    
+        <h1>Travel to Almaty</h1>
+        
+        <h2 id="A">The most beautiful placas in Almaty</h2>
+            <p>At first,Almaty is the most beautiful town in <em>Kazakhstan</em>.Because the nature of this city,it's indescribable.But the most beautiful places is:
+            </p>
+            <ol>
+                <strong><li>Medeo</li></strong>
+                <strong><li>Shymbulak</li></strong>
+                <strong><li>BAO</li></strong>
+            </ol>
+        <h2>Medeo</h2>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Medeobanen1.jpg" alt="medeo" width="250">
+        <p class="hi"><strong>Medeu</strong> is the world's largest high-altitude complex for winter sports with the largest area of an artificial ice field — 10.5 thousand m2. <strong>The high mountains</strong> and the purest mountain water for pouring ice contribute to achieving high results in speed skating, over <strong>200 world</strong> records have been set here for all distances among men and women. The Alma-Ata ice rink was nicknamed the <em>"factory of records".</em> It is a state monument of urban planning and architecture of national significance.</p>
+        
+        <h3>Shymbulak</h3>
+         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Новая_гондольная_линия_Медео-Шымбулак._8-местная_кабина..JPG/1200px-Новая_гондольная_линия_Медео-Шымбулак._8-местная_кабина..JPG" alt="shym" width="250">
+        <p class="hi">Favorable natural conditions attract <em>tourists, mountaineers, and skiers</em> to this area with accessible terrain, allowing you to lay ski trails with a height difference of <strong>900-1000 m.</strong> In this regard, since 1954, the ski sports base <strong>"Cimbulak"</strong>began to function here. The length of the track of the sports descent from the Talgar pass is 3500 m, the giant slalom is 1500 m, the average width is 25 m, the slope is 11-29°.</p>
+        
+        <h4>BAO</h4>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Emerald_Lake_-_Yoho_National_Park.JPG" alt = "bao" width="250">
+        
+        
+        <p class="hi"><strong>Big Almaty Lake</strong>, or BAO for short, is a picturesque lake <em>20 kilometers</em> from Almaty. The reservoir is located near the state border of <strong>Kyrgyzstan,</strong> but no special passes are required to visit-and the millions of tourists who have visited here are the best proof of this. BAO is hidden in a mountainous area with landscapes of indescribable beauty and delicious air filled with the aroma of fragrant herbs and <strong>the freshness of the snow-capped peaks of the Trans-Ili Alatau.</strong>
+            
+        </p>
+        <h4>why Almaty? </h4>
+        <p>Over the past few years, the cultural life of Alma-Ata has been experiencing a real flourishing. <strong>Theaters, festivals, galleries, conceptual</strong> spaces-there is an option for any audience. You should start exploring classical art at the Kasteev State Museum, where you can find not only collections of <em>Central Asian artists, but also halls with Russian, Western European and Eastern art.</em> Ballet and opera lovers should visit the Abay Opera and Ballet Theater already mentioned.
+            
+        </p>
+        <ul>
+            <li>Culture</li>
+            <li>Natur</li>
+            <li>people</li>
+        </ul>
+        
+    </body>
+</html>
