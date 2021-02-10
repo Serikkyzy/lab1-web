@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Blog</title>
+        <style>
+            body {
+                background-color:rgb(198,224,234);
+                font-family: sans-serif;
+            }
+            h1{
+                text-align:left;
+
+            }
+            p {
+                color:rgb(143, 179, 93);
+                line-height:2em;
+                font-size:25px;
+            }
+            .aliya{
+                color:rgb(59, 140, 125);
+                font-family:monospace;
+            }
+            #for_me{
+                font-weight:bold;
+                font-style:italic;
+            }
+            .date{
+                color: rgb(0, 153, 130);
+            }
+        </style>
+    </head>
+    <body>
+        
+        <h1 class="aliya">Aliya's blog</h1>
+
+        <h3 class="aliya">Contents</h3>
+        <ul>
+            <a href="#first-post"><li>Why I love singing?</li></a>
+            <a href="#second-post"><li>what happened after party?</li></a>
+        </ul>
+        
+        <h2 id="first-post" class="heading">Why I love singing?</h2>
+        <h5 class="date">sun 12:43p PM 2/23/21</h5>
+        
+        <p>the main reason, why i love singing is relaxing.When I am singing I always feel happienes</p>
+        <h2 id="second-post" class="heading">what happened after party?</h2>
+        <h5 class="date">tue 18:10p PM 7/03/21</h5>
+        <p>After party a met my friends and we go on our party</p>
+        <p id="for_me">I hope that in future I will be a good programmist and singer</p>
+    </body>
+</html>
