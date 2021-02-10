@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Event invite</title>
+        <style>
+          #p3 {
+              width: 30%;
+              border: 6px ridge rgb(77, 22, 77);
+              float: right;
+              margin-right: 6px;
+              margin-bottom: 6px;
+
+          }  
+          #p2 {
+              width: 30%;
+              border: 6px ridge rgb(77, 22, 77);
+              float: right;
+              margin-right: 6px;
+              margin-bottom: 6px;
+          }
+          #p1 {
+              width: 30%;
+
+              border: 6px ridge rgb(77, 22, 77);
+              float: right;
+              margin-right: 6px;
+              margin-bottom: 6px;
+              }
+          .description {
+              background: gray;
+          }
+         .important {
+             color:rgb(102, 39, 102);
+             font-weight: bold;
+             font-size:23px;
+         }
+         
+         #phon{
+             background: rgb(125, 77, 108);
+           width: 100%;  
+
+         }
+         .dresscode {height: 150px;
+             overflow: auto;
+              margin: 20px;
+              padding: 6px;
+              border: 2px solid rgb(26, 34, 54);
+         }
+         .game {height: 150px;
+             overflow: auto;
+              margin: 20px;
+              padding: 6px;
+              border: 2px solid rgb(31, 34, 43);
+         }
+          .food {height: 150px;
+             overflow: auto;
+              margin: 20px;
+              padding: 6px;
+              border: 2px solid rgb(26, 34, 54);
+         }
+        #pic {
+             width: 80%;
+             margin: auto;
+             font-family: "Helvetica", sans-serif;
+             border: 2px solid rgb(5, 4, 2);
+             border-top: 15px solid rgb(15, 13, 11);
+             padding: 10px;
+             background-color: rgb(150, 105, 150);
+             z-index: 1;
+         }
+
+
+         #when { font-weight: bold;}
+
+        #invited {
+            color: rgb(222, 89, 222);
+        }
+        #link {
+            background-color: rgb(135, 59, 135);
+            float: right;
+            width: 30%;
+            padding: 10px;
+            margin-left: 10px;
+
+        }
+        #Notes { background: rgb(194, 190, 194);
+            width: 50%;
+            margin-left: 50px;
+            font-size:30px;
+        }
+          #pic2 {
+            position: absolute;
+            top: 40px;
+            left: 347px;
+            z-index: 2;
+        }
+
+        </style>
+    </head>
+    <body>
+    <div id="pic">
+
+      <img src="https://www.kasandbox.org/programming-images/creatures/Hopper-Cool.png" id="pic2">   
+        <h1 id="hello">Hi Tony,</h1>
+        <h1 id="invited">You're invited!</h1>
+        <h2>To Our Helloween Party !</h2>
+    
+        <h3>Time:  </h3>
+        <ul id="when">
+        <li>  At 8pm</li>
+        <li>Tuesday, October 31st </li>
+        <li> Address:Samal 45</li>
+        </ul>
+
+<div id="phon">
+<h3> Dresscode</h3>
+        <p class="dresscode"><img id="p1" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/Lorne%28angel%29.jpg/220px-Lorne%28angel%29.jpg"> <span class="important">DRESSCODE IS IMPORTANT!!!.</span><br> Of course you can choose your favourite character and come wtith great custume.But dont forget the night will be very  horror))</p>
+        <h3> games</h3>
+        <p class="game"> <img id="p2" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Kobe_Mosaic15s3072.jpg"> <span class="important">Halloween Jinx </span><br>As party guests arrive give them 5 pieces of candy and explain that there is a list of words that are forbidden. If they hear another guest use one of the forbidden words, they can shout Jinx and take a piece of that player’s candy. The person with the most candy at the end of the night wins. Adjust this game for children or adults by selecting more or fewer words.
+
+
+</p>
+<h3> Food</h3>
+        <p class="food"><img id="p3" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/HalloweenPumpkin2.jpg/220px-HalloweenPumpkin2.jpg"> <span class="important"> Gooey Monster Eye Cookies </span><br>Candy eyeballs and green food coloring make a cookie treat that looks great even as it’s looking right back at you.
+</p>
+</div>
+        
+ <div id="link"  > 
+         <h3>Resources:  </h3>
+        <ul>
+            <li> <a href="https://www.shutterfly.com/ideas/halloween-party/">About food</a></li>
+            <li><a href="https://www.shutterfly.com/ideas/halloween-invitation-wording/">About games</a></li>
+            <li> <a href="https://www.google.com/search?q=halloween+wikipedia&tbm=isch&ved=2ahUKEwjD_tua0tDuAhXOAncKHRVVDzsQ2-cCegQIABAA&oq=wikipedia+hal&gs_lcp=CgNpbWcQARgJMgQIABATMgYIABAeEBMyCAgAEAgQHhATMggIABAIEB4QEzIICAAQCBAeEBMyCAgAEAgQHhATMggIABAIEB4QEzIICAAQCBAeEBMyCAgAEAgQHhATMggIABAIEB4QEzoECCMQJzoCCAA6BAgAEB5Q_sUNWN3vDWDphQ5oAXAAeACAAYoDiAG7IpIBCDAuMTIuMi41mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=vR8cYIOsNc6F3AOVqr3YAw&bih=820&biw=1440&client=safari&safe=active#imgrc=uvd97qzoBNBuIM">our photos</a></li>
+        </ul> </div> 
+
+        </div>
+   <p id="Notes" > We are waiting you! </p>   
+
+    </body>
+</html>
