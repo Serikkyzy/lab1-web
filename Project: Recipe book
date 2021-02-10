@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+        </style>
+    </head>
+    <body>
+       
+        <h1>Aliya's Recipe Book</h1>
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li><a href="#recip1">Recipe #1 </a></li>
+            <li><a href="#recip2">Recipe #2</a></li>
+            <li><a href="#recip3">Recipe #3</a></li>
+        </ol>
+        
+        <h2 id="recip1">Recipe #1 Pancakes</h2>
+        
+        <ul>
+            <li>Time:30 min</li>
+            <li>Serves: 5</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>flour</td>
+                <td>250g</td>
+            </tr>
+            <tr>
+                <td>milk</td>
+                <td>150g</td>
+            </tr>
+            <tr>
+                <td>eggs</td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>sugar</td>
+                <td>100g</td>
+            </tr>
+            <tr>
+                <td>oil</td>
+                <td>3 spoon</td>
+            </tr>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong>mix eggs with sugar
+</p>
+<p><strong>Step 2:</strong>after that add milk there
+</p>
+<p><strong>Step 3:</strong>after that add flour and mix it 1 min
+</p>
+<p><strong>Step 4:</strong>add oil there and mix it 1 min
+</p>
+<p><strong>Step 5:</strong>heat the stove and fry pancakes on it
+</p>
+
+<h2 id="recip2">Recipe #2 salat</h2>
+        
+        <ul>
+            <li>Time:5 min</li>
+            <li>Serves: 3</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>tomato</td>
+                <td>250g</td>
+            </tr>
+            <tr>
+                <td>cucumber</td>
+                <td>250g</td>
+            </tr>
+            <tr>
+                <td>onion</td>
+                <td>50g</td>
+            </tr>
+            <tr>
+                <td>salt</td>
+                <td>2g</td>
+            </tr>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong>cut the tomatoes into wedges
+</p>
+<p><strong>Step 2:</strong>cut the cucumbers into wedges
+</p>
+<p><strong>Step 3:</strong>after that mix them in one dish
+</p>
+<p><strong>Step 4:</strong> cut the onion into wedges
+</p>
+<p><strong>Step 5:</strong>add salt there and mix it and put it on plate
+</p>
+<h2 id="recip3">Recipe #3 biscuit</h2>
+        
+        <ul>
+            <li>Time:60 min</li>
+            <li>Serves: 8</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>flour</td>
+                <td>100g</td>
+            </tr>
+            <tr>
+                <td>eggs</td>
+                <td>4</td>
+            </tr>
+            <tr>
+                <td>sugar</td>
+                <td>150g</td>
+            </tr>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong>Very carefully, trying not to get the yolk into the whites, we divide the eggs. We set aside the whites, and add half of all the sugar to the yolks (about 75 g, if you add a little more or less, then it's okay) and all the vanilla sugar.
+</p>
+<p><strong>Step 2:</strong>With a mixer at maximum speed, beat the yolks for 5-7 minutes until a very dense and light mass is obtained.
+</p>
+<p><strong>Step 3:</strong>Without stopping whipping, pour the remaining granulated sugar into the proteins in small portions.
+</p>
+<p><strong>Step 4:</strong>Now we set aside the mixer, we will no longer need it and take a whisk or a spatula. So, add 1/3 of the egg whites to the yolks and mix gently until smooth.
+</p>
+<p><strong>Step 5:</strong>Next, add half of the flour (it must be sifted 1-2 times in advance) and mix again until smooth. Thus, alternating the remaining proteins and flour, knead the dough.
+</p>
+<p><strong>Step 6:</strong>The kneaded dough is transferred to a baking dish with a diameter of 20-22 cm (I have a form of 21 cm). The bottom of the mold must first be covered with baking paper, it is better not to lubricate the sides with anything, since during baking the sponge cake will grow and "cling" to the sides of the mold.
+</p>
+<p><strong>Step 7:</strong>Completely cooled sponge cake is released from the mold. To do this, take a long and narrow knife and pass it along the sides.
+</p>
+        
+    <p><em>Source: <a href="https://www.allrecipes.com/recipe/21014/good-old-fashioned-pancakes/">Some recipes websites</a></em></p>
+    
+    
+    </body>
+</html>
