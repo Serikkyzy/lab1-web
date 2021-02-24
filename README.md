@@ -1,1 +1,1 @@
-# lab1-web
+# lab-web
